@@ -1,0 +1,1 @@
+LinkedList.prototype.sortList = (){}
